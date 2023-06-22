@@ -1,0 +1,26 @@
+# Data Base
+
+myql_host: "containers-us-west-42.railway.app"
+myql_database: "railway"
+myql_user: "root"
+myql_password: "erDsUSFgkgfmhzElbSEn"
+myql_port: "6287"
+
+
+# Autentication Google
+google_api_key: "AIzaSyD3cDw1wZWiU1Zf2pfpKVc9WrExBZr4pz0"
+CLIENT_SECRET_FILE: "client_secret.json"
+
+
+# Google Drive API  
+
+GD_API_NAME: "drive"
+GD_API_VERSION: "v3"
+GD_SCOPES: "https://www.googleapis.com/auth/drive"
+
+
+# Gmail API  
+
+GM_API_NAME: "gmail"
+GM_API_VERSION: "v1"
+GM_SCOPES: "https://mail.google.com/"
